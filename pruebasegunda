@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mi Página HTML</title>
+</head>
+<body>
+
+    <header>
+        <h1>Bienvenido a mi página HTML</h1>
+    </header>
+
+    <nav>
+        <ul>
+            <li><a href="#inicio">Inicio</a></li>
+            <li><a href="#acerca">Acerca</a></li>
+            <li><a href="#contacto">Contacto</a></li>
+        </ul>
+    </nav>
+
+    <main>
+        <section id="inicio">
+            <h2>Sección de Inicio</h2>
+            <p>Bienvenido a mi página de inicio.</p>
+        </section>
+        
+        <section id="acerca">
+            <h2>Acerca de Nosotros</h2>
+            <p>Somos una empresa dedicada a...</p>
+        </section>
+        
+        <section id="contacto">
+            <h2>Contáctanos</h2>
+            <p>Puedes encontrarnos en...</p>
+        </section>
+    </main>
+
+    <footer>
+        <p>Derechos de autor &copy; 2024 - Todos los derechos reservados.</p>
+    </footer>
+
+</body>
+</html>
